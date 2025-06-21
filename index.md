@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: home
 title: Inicio
+author_profile: true
 ---
 
-# Bienvenido a mi sitio
-
-Este es un sitio hecho con **Jekyll**, usando layouts y colecciones.
+Bienvenido a mi sitio personal. Aquí encontrarás información sobre mí y mis proyectos.

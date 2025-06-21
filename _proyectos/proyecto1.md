@@ -1,5 +1,6 @@
 ---
-title: Proyecto 1
+title: Calculadora Web
+layout: single
 ---
 
-Descripción del primer proyecto.
+Una calculadora sencilla hecha en HTML, CSS y JavaScript. Permite sumar, restar, multiplicar y dividir.

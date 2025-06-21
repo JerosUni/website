@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: archive
 title: Proyectos
+permalink: /proyectos/
+author_profile: true
 ---
 
-# Lista de proyectos
+Aquí puedes ver algunos de los proyectos que he realizado recientemente:
 
-<ul>
 {% for proyecto in site.proyectos %}
-  <li><strong>{{ proyecto.title }}</strong>: {{ proyecto.content | markdownify }}</li>
+- [{{ proyecto.title }}]({{ proyecto.url }})
 {% endfor %}
-</ul>

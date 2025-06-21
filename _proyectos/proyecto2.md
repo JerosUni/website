@@ -1,5 +1,6 @@
 ---
-title: Proyecto 2
+title: Blog en Jekyll
+layout: single
 ---
 
-Descripción del segundo proyecto.
+Un blog personal hecho con Jekyll que incluye temas, markdown y despliegue en GitHub Pages.
