@@ -7,6 +7,6 @@ title: Proyectos
 
 <ul>
 {% for proyecto in site.proyectos %}
-  <li><a href="{{ proyecto.url }}">{{ proyecto.title }}</a></li>
+  <li><strong>{{ proyecto.title }}</strong>: {{ proyecto.content | markdownify }}</li>
 {% endfor %}
 </ul>
